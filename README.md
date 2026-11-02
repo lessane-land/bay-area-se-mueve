@@ -1,6 +1,6 @@
 # Bay Area se mueve
 
-The SF Bay Area, live: BART, Muni, Caltrain, ferries, every bus and every Bay Wheels station. https://bay.lessane.es
+The SF Bay Area, live: BART, Muni, Caltrain, ferries, every bus and every Bay Wheels station. https://bayarea.lessane.es
 
 This repo holds only the page and its domain. The code lives in
 [lessane-land/madrid-se-mueve](https://github.com/lessane-land/madrid-se-mueve): the same site runs Madrid and the Bay,
